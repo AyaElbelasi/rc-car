@@ -1,4 +1,4 @@
-# RC Car — RF Remote-Controlled Car (no microcontroller)
+# RC Car: RF Remote-Controlled Car (no microcontroller)
 
 This is a four-wheel remote-controlled car and its handheld remote, built for a university
 electronics project. The point of interest is that there is no microcontroller anywhere in
